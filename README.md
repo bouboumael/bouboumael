@@ -1,4 +1,4 @@
-# Salut, je suis un développeur autodidacte
+# Bonjour, je suis un développeur autodidact et passionné.
 
 Je me forme en continu et j'apprends ce dont j'ai besoin pour construire mes projets.
 
