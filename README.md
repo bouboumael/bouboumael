@@ -20,20 +20,6 @@ Je me forme en continu et j'apprends ce dont j'ai besoin pour construire mes pro
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
----
-
-## Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bouboumael&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bouboumael&theme=default" alt="GitHub Streak" />
-</p>
-
----
-
 ## Citation
 
 > Construire avant de choisir l'outil.
