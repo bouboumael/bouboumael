@@ -1,16 +1,39 @@
-## Hi there 👋
+# Salut, je suis un développeur autodidacte
 
-<!--
-**bouboumael/bouboumael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je me forme en continu et j'apprends ce dont j'ai besoin pour construire mes projets.
 
-Here are some ideas to get you started:
+- J'utilise les technologies comme des outils, pas comme une finalité.
+- Mon objectif est de comprendre, créer et progresser de manière concrète.
+- J'adapte mes choix techniques en fonction des besoins réels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technologies & outils
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+## Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bouboumael&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bouboumael&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+## Citation
+
+> Construire avant de choisir l'outil.
